@@ -8,3 +8,4 @@ wolf
 snake
 sheep
 rabbit
+goose
